@@ -2333,7 +2333,7 @@ background-color: rgba(255, 174, 0, 0.67);
 
 .smedia {
   position: absolute;
-top: 20px;
+top: 2px;
 -webkit-transition: top 0.6s cubic-bezier(0.1,0.8,0.9,1.2), opacity 1s linear;
 -moz-transition: top 0.6s cubic-bezier(0.1,0.8,0.9,1.2),opacity 1s linear;
 -o-transition: top 0.6s cubic-bezier(0.1,0.8,0.9,1.2), opacity 1s linear;
@@ -2465,7 +2465,7 @@ top: 20px;
 }
 
 .smedia.fcbk {
-    background: url(https://1.bp.blogspot.com/-2H8NhijLP2I/WRhL9VuQR2I/AAAAAAAABNA/XmDs8Omtsj834tegEVEOX0KJUtegvIv_gCLcB/s1600/004-fac2go-button%2Bcopy.png);
+    background: url(https://4.bp.blogspot.com/-XiskueVpjfM/WRhL9a7_M_I/AAAAAAAABM8/ynCBvIB-WFwkjfSUg8ozM_jTFmk5IBPPgCLcB/s1600/003-twitter-logo-button%2Bcopy.png);
 
 }
 .smedia.twit {
