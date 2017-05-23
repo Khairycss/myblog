@@ -2333,7 +2333,7 @@ background-color: rgba(255, 174, 0, 0.67);
 
 .smedia {
   position: absolute;
-top: 2px;
+top: 20px;
 -webkit-transition: top 0.6s cubic-bezier(0.1,0.8,0.9,1.2), opacity 1s linear;
 -moz-transition: top 0.6s cubic-bezier(0.1,0.8,0.9,1.2),opacity 1s linear;
 -o-transition: top 0.6s cubic-bezier(0.1,0.8,0.9,1.2), opacity 1s linear;
